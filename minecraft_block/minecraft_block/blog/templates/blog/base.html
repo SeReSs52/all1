@@ -1,0 +1,22 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{% block title %}{% endblock %}</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{% static "css/bulma.css" %}">
+    <link rel="stylesheet" href="{% static "css/blog.css" %}">
+    <link rel="shortcut icon" href="{% static "favicon.png" %}" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Andika&family=Balsamiq+Sans:ital@1&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="columns is-centered">
+        <div class="column is-half">
+            {% block content %}
+            {% endblock %}
+        </div>
+    </div>
+
+
+</body>
+</html>
