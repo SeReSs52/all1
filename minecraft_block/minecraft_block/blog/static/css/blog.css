@@ -1,11 +1,18 @@
 .blog_wrap{
-    border: 2px solid black;
+    border: 2px solid #002cff;
     margin-bottom: 2em;
     padding: 7px;
     border-radius: 10px;
-h3, h5{
+}h3, h5{
     font-family: 'Balsamiq Sans';
 }
 p{
     font-family: 'Andika', sans-serif;
+}
+.promo_img{
+    width: 200px;
+    border: 2px solid #ffe000;
+}
+h5, p{
+word-wrap: break-word;
 }
