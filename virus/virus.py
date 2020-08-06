@@ -8,7 +8,5 @@ width = root.winfo_screenheight()
 root.title("Windows locker")
 root.attributes("-fullscreen", True)
 root.configure(background='black')
-
-
 root.update()
-sleep(60)
+sleep(10)

@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="526eb4c8-0998-4d67-a6e6-3287ea9e51c1" name="Default Changelist" comment="" />
+    <list default="true" id="526eb4c8-0998-4d67-a6e6-3287ea9e51c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../untitled311111111/.idea/untitled311111111.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled311111111/111111111111111111111222222222222.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../virus/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files1/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BOT" beforeDir="false" afterPath="$PROJECT_DIR$/../BOT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minecraft_block/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../minecraft_block/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minecraft_block/minecraft_block/blog/static/css/blog.css" beforeDir="false" afterPath="$PROJECT_DIR$/../minecraft_block/minecraft_block/blog/static/css/blog.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minecraft_block/minecraft_block/blog/templates/blog/post/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/../minecraft_block/minecraft_block/blog/templates/blog/post/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minecraft_block/minecraft_block/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../minecraft_block/minecraft_block/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minecraft_block/minecraft_block/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../minecraft_block/minecraft_block/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../virus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../virus/virus.py" beforeDir="false" afterPath="$PROJECT_DIR$/../virus/virus.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1doMheBxb9RFDa8ECmoWrWOtxPl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -71,5 +88,16 @@
       <updated>1593087113034</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

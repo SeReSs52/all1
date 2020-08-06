@@ -31,7 +31,7 @@ entry.place(width=500, height=70, x=width / 2 - 250, y=height / 2 - 75)
 label0 = Label(root, text = "SeReSs52", font =("Arial", 15))
 label0.place(width = 200, height = 100, x = width/2 - 50, y = height/3 - 50, )
 
-button1= Button(root, text = "Пиши пароль и нажми  Enter", font = ("Arial", 20), command=checkpassword)
+button1= Button(root, text = "Пиши пароль и нажми СЮДА", font = ("Arial", 20), command=checkpassword)
 button1.place(width = 700, height = 100, x =width/2 - 350, y = height/5 )
 
 
